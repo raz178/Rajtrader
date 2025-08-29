@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RajTrade and Exchange 💱</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #1a1a1a; color: white; padding: 20px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    section { padding: 50px; text-align: center; }
+    footer { background: #1a1a1a; color: white; text-align: center; padding: 15px; }
+    .btn { background: #007bff; color: white; padding: 12px 25px; border-radius: 5px; text-decoration: none; }
+    .services { display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; }
+    .card { background: #f9f9f9; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+    .card h3 { margin-top: 0; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>RajTrade and Exchange 💱</h1>
+    <p>Your trusted partner in trade and currency exchange</p>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to RajTrade and Exchange</h2>
+    <p>We provide fast, secure, and reliable trade & currency exchange services tailored to your needs.</p>
+    <a href="#contact" class="btn">Get Started</a>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>RajTrade and Exchange 💱 is committed to offering transparent and efficient financial solutions. 
+    With years of expertise in trading and exchange, we ensure our clients always get the best value and trusted service.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="card">
+        <h3>💱 Currency Exchange</h3>
+        <p>Safe and fast exchange of international currencies at the best market rates.</p>
+      </div>
+      <div class="card">
+        <h3>📈 Trade Consulting</h3>
+        <p>Guidance on trading strategies and financial growth for businesses and individuals.</p>
+      </div>
+      <div class="card">
+        <h3>🔒 Secure Transactions</h3>
+        <p>We prioritize security and confidentiality in all exchanges and trading deals.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📧 Email: <a href="mailto: neupaneraj005@gmail.com">info</a></p>
+    <p>📞 Phone: +977-9827937577</p>
+    <p>📍 Location: Kathmandu, Nepal</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 RajTrade and Exchange goods. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
